@@ -44,6 +44,7 @@ The predictions made by the model are as follows:
 
 ## Authors
 - [Md Mijanur Rahman](https://github.com/mijanr)
+- [Rajib Kumar Chanda](https://github.com/RajibChanda)
 
 
 
